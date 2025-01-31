@@ -1,0 +1,210 @@
+#page1{
+  text-align: center;
+  font-weight: bold;
+  word-spacing: cm;
+  font-size: 19px;
+}
+
+body {
+font-family: Tahoma, Arial, sans-serif;
+background-color: whitesmoke;
+font-weight: black;
+ 
+}
+
+.Body{
+  background-image: url("/assets/img1.jpg")
+}
+
+
+.Login{
+  background-color: Blue ;
+  text-decoration-color: White ;
+}
+
+.p{
+  font-stretch: condensed ;
+  text-shadow: 10px;
+  font-style: bold;
+  font-family: 'Times New Roman', Times, serif
+  color : white ;
+  }
+
+h1{
+  color:white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif
+}
+
+
+
+.lorem{
+  color: white;
+  text-align: center;
+  font-family: serif;
+}
+
+
+.container{
+ color :white;
+ font-family: sans-serif;
+ font-weight: bold;
+}
+
+
+.card{
+  border-radius: 10px;
+  color: white;
+  border :1px solid;
+  text-align: center;
+  border-color: white;
+  width: 200px;
+  height 100px;
+  box-shadow: 1ef;
+}
+
+.card2{
+  border-radius: 10px;
+  color: ghostwhite;
+  border :1px solid;
+  text-align: center;
+  border-color: white;
+  width: 200px;
+  height 100px;
+  background-color:;
+}
+
+.container1{
+background-color: white;
+width: 260px;
+
+}
+
+.Body2{
+  background-image: url(/assets/img2.jpg);
+  text-align: center ;
+  color: white;
+  
+}
+
+
+#img{
+ 
+ border-radius: 10px;
+  display: block ;
+ 
+}
+
+
+.body4{
+  color : white;
+  background-color: blue:
+}
+
+h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+
+
+.review{
+  background-color: skyblue;
+  font-weight: bold;
+  width: auto;
+  height :400px;
+  text-align: center;
+  align-items: center ;
+  
+}
+
+
+.card3{
+  width: 500px;
+  border-radius: 10px;
+  color: black;
+  border :1px solid;
+  text-align: center;
+  border-color: white;
+  background-color: white ;
+  height 200px;
+}
+
+
+.paragraph{
+  text-align: center;
+  color : white ;
+}
+
+.News{
+  background-color: cornflowerblue;
+  width: 950px;
+  height: 200px;
+  border: blue;
+  border-radius: 20px;
+  text-align: center ;
+  color : white ;
+  align-content: center ;
+  align-self: center ;
+}
+
+
+.text{
+  width :500px;
+  height :50px;
+  border : white ;
+  border-radius:20px
+}
+
+
+.quality{
+  align-content: center ;
+}
+
+
+.footer{
+  background-color: deepskyblue;
+  color: white;
+  
+}
+
+
+.hr{
+  color: white;
+  text-align: center;
+}
+
+#btn1{
+  border-radius: 10px;
+  color: white;
+  background-color: blue;
+  text-transform: uppercase ;
+  font-weight: bold;
+  width: 100px;
+  height :50px;
+}
+
+
+.search{
+  border-radius: 10px;
+  width: 250px;
+  height: 40px;
+}
+
+.submit{
+  border-radius: 10px;
+}
+
+#submit{
+  border-radius: 30px;
+  height :50px;
+  width :100px;
+  background-color: white;
+  color :blue;
+  border: white;
+}
+
+
+.imgs{
+  border-radius: 20px;
+}
